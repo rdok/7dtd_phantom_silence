@@ -10,6 +10,8 @@
 
 ## Features
 - Turns off creepy ambient noises during nighttime and day-night transitions.
+    - Retains natural sounds, such as crickets.
+- For finer control over specific ambient sounds, including options to mute or replace them, consider using the [AmbientSoundsCustomizer](https://www.nexusmods.com/7daystodie/mods/4889) instead.
 - 7dtd Version: 1.0 (b333)
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 
