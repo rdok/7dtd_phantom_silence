@@ -14,7 +14,7 @@
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
         <ModName>PhantomSilenceDebug</ModName>
-        <ModDescription>Removes those unnecessary tension-building sounds that play both day and night, creating a more immersive and calm experience by silencing false threats and empty suspense.</ModDescription>
+        <ModDescription>Turns off creepy ambient noises during nighttime and day-night transitions.</ModDescription>
         <ModId>5749</ModId>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

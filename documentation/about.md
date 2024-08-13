@@ -2,13 +2,13 @@
 
 [![nexus-mods-collection-immersive-hud](https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla)](https://next.nexusmods.com/7daystodie/collections/epfqzi) [![nexus-mods-page](https://img.shields.io/badge/Nexus%20Mod-Phantom%20Silence%20-orange?style=flat-square&logo=spinrilla)](https://www.nexusmods.com/7daystodie/mods/5749) [![github-repository](https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github)](https://github.com/rdok/7dtd_phantom_silence)
 
-> **Phantom Silence:** Disables audio clips associated with spooky sounds and transitions during daybreak and nightfall.  
+> **Phantom Silence:** Turns off creepy ambient noises during nighttime and day-night transitions.
 > **EAC Caveat:** This mod uses custom code that is not compatible with Easy Anti-Cheat (EAC).
 
 [![Phantom Silence Showcase](https://github.com/rdok/7dtd_phantom_silence/blob/main/documentation/showcase.jpg?raw=true)](https://www.nexusmods.com/7daystodie/mods/5749)
 
 ## Features
-- Disables audio clips associated with spooky sounds and transitions during daybreak and nightfall.
+- Turns off creepy ambient noises during nighttime and day-night transitions.
 - 7dtd Version: 1.0 (b333)
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 
@@ -18,11 +18,11 @@
 
 ## UA Testing
 ```
-# Set night to test Night_Oneshots which plays the a_night_oneshot(1-6) sounds
+# Creepy (annoying) sounds
 settime night
-# Set the time a few seconds before day break
+# Break day
 settime 3980
-# Set the time a few seconds before nightfall
+# Night fall
 settime 21980
 ```
 
