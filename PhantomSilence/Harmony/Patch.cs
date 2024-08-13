@@ -19,7 +19,7 @@ namespace PhantomSilence.Harmony
         {
             if (!Array.Exists(TargetNames, name => name == __instance.name)) return true;
 
-            Logger.Info($"Muting {__instance.name} using TurnOff and SetVolume.");
+            Logger.Info($"Turning off {__instance.name}.");
             __instance.TurnOff(true);
 
             return true;
