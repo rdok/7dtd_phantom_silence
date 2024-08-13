@@ -3,8 +3,10 @@
 [url=https://next.nexusmods.com/7daystodie/collections/epfqzi][img]https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://www.nexusmods.com/7daystodie/mods/5749][img]https://img.shields.io/badge/Nexus%20Mod-Phantom%20Silence%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://github.com/rdok/7dtd_phantom_silence][img]https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github[/img][/url]
 
 [quote]
-Disables audio clips associated with spooky sounds and transitions during daybreak and nightfall.
+[b]Phantom Silence:[/b] Disables audio clips associated with spooky sounds and transitions during daybreak and nightfall.  
+[b]EAC Caveat:[/b] This mod uses custom code that is not compatible with Easy Anti-Cheat (EAC).
 [/quote]
+[url=https://www.nexusmods.com/7daystodie/mods/5749][img]https://github.com/rdok/7dtd_phantom_silence/blob/main/documentation/showcase.jpg?raw=true[/img][/url]
 
 [size=5]Features[/size]
 [list]
@@ -17,7 +19,7 @@ Disables audio clips associated with spooky sounds and transitions during daybre
 [list]
 [*] Turns off [b]a_daybreak_oneshot[1-6][/b], [b]a_nightfall_oneshot[/b] and [b]a_daybreak_oneshot[/b] audio clips.
 [/list]
-[size=5]Development[/size]
+[size=5]UA Testing[/size]
 [code]
 # Set night to test Night_Oneshots which plays the a_night_oneshot(1-6) sounds
 settime night
@@ -29,5 +31,5 @@ settime 21980
 
 [size=5]Sources[/size]
 [list]
-[*] Cross verified between code & old findings from other people: https://community.7daystodie.com/topic/4388-how-to-remove-bg-spooky-music-at-night/
+[*] Cross verified between code & old findings from other people: [url=https://community.7daystodie.com/topic/4388-how-to-remove-bg-spooky-music-at-night/]https://community.7daystodie.com/topic/4388-how-to-remove-bg-spooky-music-at-night/[/url]
 [/list]
